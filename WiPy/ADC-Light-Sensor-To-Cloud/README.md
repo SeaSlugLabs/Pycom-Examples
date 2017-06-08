@@ -7,4 +7,6 @@ I am using this Light Sensor ALS PT19 you could find it on [Adafruit](https://ww
 [Initial State](https://www.initialstate.com/) is a very easy to setup cloud, ideal for a maker where we just want something to WORK.
 Setup an account , create a new Stream Bucket, get your credentials and just paste them on the program.
 
+Dont forget to add the lib folder and the urequest.py library
+
 ![alt text](https://github.com/SeaSlugLabs/Pycom-Examples/blob/master/WiPy/ADC-Light-Sensor-To-Cloud/WipyInitialState.png)
